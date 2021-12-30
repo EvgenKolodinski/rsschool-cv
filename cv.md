@@ -1,18 +1,31 @@
 # EvgenKolodinski 
 ## My Contact Information:
-* __ Phone __: +375 29 796-08-13
-* E-mail: liseczkaya.oksana@gamil.com
+* __ Phone __: +375 33 3757545
+* E-mail: feau@mail.ru
 * GitHub: Oksana Lisetskaya
 * Telegram Oksana Lisetskaya
 ## About Me
-I’m Oksana. I am currently 22 years old. Since I have been working as a manager in a product IT company for more than two years, I very often have to take part indeveloping a new product. I want to deepen my knowledge in this area and be useful in this area.
+I'm Evgeny. I'm 28 years old. I very want to change the sphere of my activity. IT is a shere which have been interesting for me since my childhood. I try to learn something new and develop my knowledge and skills in this sphere.
 
-My life motto:
+## Skills
+* HTML
+* CSS/SASS
+* JavaScript (Basic)
+* Git, Github
 
-If you want to do something great one day, remember, one fine day is today.
-
-Skills
-HTML
-CSS/SASS
-JavaScript (Basic)
-Git, Github
+## Code Example
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
+## Experience
+## Education
+University: Belarusian National Technical University, Low Temperature Engineer
+## Courses:
+HTML Academy
+## English
+A2
