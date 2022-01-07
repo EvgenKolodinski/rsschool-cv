@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+li, a {
+    font-family: Island Moments;
+    font-weight: 800;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    padding: 30px 10%;
+    height: 50px;
+    background-color: black;
+    width: 940px;
+}
+.nav {
+    display: flex;
+    justify-content: center; 
+}
+.nav__list{
+    list-style: none;
+    width: 940px;
+}
+.nav__list li {
+    display: inline-block;
+    padding: 10px 10px;
+
+}
+.nav__list li a:hover {
+    color: red;
+}
+.conteiner {
+    min-width: 940px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.name h1 , p {
+    font-family: Island Moments;
+    font-weight: 800;
+    font-size: 40px;
+    color: white;
+    padding: 20px;
+
+}
+.conteiner-info li , h2 , i {
+    font-family: 'Spline Sans';
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+}
+.conteiner-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.Contact {
+    max-width: 30%;
+    padding: 30px;
+}
